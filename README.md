@@ -30,6 +30,7 @@ source ./nomedapasta/Bin/activate
 
 ```bash
 pip install fastapi[standard]
+pip install sqlalchemy
 ```
 
 
