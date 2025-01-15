@@ -39,3 +39,11 @@ pip install sqlalchemy
 ```
 fastapi dev ./arquivo.py
 ```
+
+
+### Referências de estudo
+
+- [Documentação oficial](https://fastapi.tiangolo.com/)
+- [@Dunossauro](https://www.youtube.com/watch?v=QShMRcicxnE&list=PLOQgLBuj2-3IuFbt-wJw2p2NiV9WTRzIP&ab_channel=EduardoMendes)
+- [Medium](https://medium.com/@aberrospic1/crud-operations-with-fastapi-c2de026e5862) - (Inglês)
+- [Medium](https://medium.com/@aberrospic1/crud-operations-with-fastapi-c2de026e5862) - (Inglês)
